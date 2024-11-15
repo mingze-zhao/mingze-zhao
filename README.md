@@ -27,7 +27,7 @@
 ---
 
 ## 🧑‍🔬 About Me
-I am a biology undergraduate student at MSU-PPI with a passion for **biostatistics** and **bioengineering**. I also have a strong interest in **electronics** and **data science**.
+I am a biology undergraduate student at MSU-BIT with a passion for **biostatistics** and **bioengineering**. I also have a strong interest in **electronics** and **data science**.
 
 ---
 
@@ -60,7 +60,8 @@ I am a biology undergraduate student at MSU-PPI with a passion for **biostatisti
 ---
 
 ## 🏆 Achievements
-- **Software Patent** | *LLM-based Real-time Translator* (2024R11L0603803)  
+- **Software Patent** | *LLM-based Real-time Translator* (2024R11L0603803)
+- **Software Patent** | *A CUDA-based Needleman-Wunsch algorithm for ultra-long sequence alignment* (2024R11L2869378)
 - **Patent** | Platform leveling device for **3D printing** with rigid chains  
 - **Publication** | IEEE Smart IoT: High-performance distributed system controlled by **Large Language Models (LLMs)** for robotics  
 - **Membership** | Shenzhen Computer Society (SZCCF) - Student Member  
