@@ -74,7 +74,8 @@ I am a biology undergraduate student at MSU-BIT with a passion for **biostatisti
 - **Grand Prize** | Information Literacy Competition (2023)  
 - **Grand Prize** | Smart Unmanned Systems Challenge (2024)  
 - **Finalist** | Smart Unmanned Systems Challenge (2023)  
-- **S Medal** | International Mathematical Contest in Modeling (MCM-2024, USA)  
+- **S Medal** | International Mathematical Contest in Modeling (MCM-2024, USA)
+- **H Medal** | International Mathematical Contest in Modeling (MCM-2025, USA)
 - **Bronze Medal** | National College Hockey League (2023)  
 - **Provincial Finalist** | China International College Student Innovation Competition (2024)  
 
