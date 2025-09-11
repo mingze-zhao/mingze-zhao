@@ -70,7 +70,7 @@ I am a biology undergraduate student at MSU-BIT with a passion for **biostatisti
 - **Software Patent** | *LLM-based Real-time Translator* (2024R11L0603803)
 - **Software Patent** | *A CUDA-based Needleman-Wunsch algorithm for ultra-long sequence alignment* (2024R11L2869378)
 - **Patent** | Platform leveling device for **3D printing** with rigid chains  
-- **Publication** | IEEE SmartIoT25: High-performance distributed system controlled by **Large Language Models (LLMs)** for robotics
+- **Publication** | IEEE SmartIoT25: **Zhao, M**., Chen, H., & Du, H. "High-Performance Distributed Control System Driven by Large Language Model (LLM) for Robotics.
 - **Publication** | IEEE CloudCom25: 
 - **Publication** | IEEE CloudCom25: 
 - **Membership** | Shenzhen City Computer Federation  (SZCCF) - Student Member  
