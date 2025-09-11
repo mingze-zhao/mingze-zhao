@@ -44,7 +44,7 @@ I am a biology undergraduate student at MSU-BIT with a passion for **biostatisti
 **Dec 2022 – July 2025, Shenzhen, China**  
 - Developed **obstacle avoidance algorithms** for UAVs  
 - Competed in the **Smart Unmanned Systems Challenge**, achieving **5th place** among **22 university and military teams**
-- PI: *Prof. Xiaodong Yuan* 
+
 
 ### 💻 Research Assistant | Artificial Intelligence Research Institute, MSU-BIT 
 - **July 2025 – Now, Shenzhen, China**
