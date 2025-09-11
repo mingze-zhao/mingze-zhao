@@ -77,8 +77,8 @@ I am a biology undergraduate student at MSU-BIT with a passion for **biostatisti
 
 ## 🎖️ Awards
 - **Gold Award, National Final** | 2025 China National College Student IoT Design Competition (Huawei Cup)
-  (Ranked in the top 1.2% among 3920 competing teams)
-  Served as Deputy Team Leader, responsible for algorithm design and team coordination.
+  - (Ranked in the top 1.2% among 3920 competing teams)
+  - Served as Deputy Team Leader, responsible for algorithm design and team coordination.
 
 - **First Prize, East China Division** | 2025 China National College Student IoT Design Competition (Huawei Cup)
 
