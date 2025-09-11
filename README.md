@@ -86,31 +86,31 @@ I am a biology undergraduate student at MSU-BIT with a passion for **biostatisti
 - **First Prize, East China Division** | China National College Student IoT Design Competition (2025, Zhejiang China)
   - (Ranked in the top 1.2% among 3920 competing teams)
   - Served as Deputy Team Leader, responsible for algorithm design and team coordination.
-
+&nbsp;
 - **Bronze Award, National Level** | The 10th National Collegiate Biomedical Engineering Innovative Design Competition (2025, Xi'an China)
   - Served as Team Leader, responsible for software and hardware architecture design and promotional video production
-
+&nbsp;
 - **Finalist** | Smart Unmanned Systems Challenge (2023, Jiangyin China)  
 - **Grand Prize, National Level** | Smart Unmanned Systems Challenge (2024, Jiangyin China)
 - **Grand Prize, National Level** | Smart Unmanned Systems Challenge (2025, Jiangyin China)
   - Served as Team Leader, responsible for algorithm design and team coordination.
-
+&nbsp;
 - **S Medal** | International Mathematical Contest in Modeling (MCM-2024, USA)
   - Served as Team Leader. 
 - **H Medal** | International Mathematical Contest in Modeling (MCM-2025, USA)
   - Served as Deputy Team Leader, responsible for code implementation and paper layout design.
-
+&nbsp;
 - **National Third Prize** | The 5th MathorCup Mathematical Contest in Modeling (2025)
 - **First Prize, south China Division** | The 5th MathorCup Mathematical Contest in Modeling (2025)
   - Certificate No: MC25003914
-
+&nbsp;
 - **Second Prize, Guangdong Division** | "Shenzhen Cup" Mathematical Modeling Challenge (2025, Shenzhen China)
   - Served as Deputy Team Leader, responsible for code implementation
-
+&nbsp;
 - **Bronze Medal, National Level** | National College Hockey League (2023)
 - **Finalist** | National College Hockey League (2024)
   - Delivered the momentum-shifting goal as a Forward in the pivotal match against Chongqing University of Technology, sparking the team's comeback.
-  
+&nbsp;
   
 ---
 
