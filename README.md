@@ -156,9 +156,6 @@ I am a biology undergraduate student at MSU-BIT with a passion for **biostatisti
 - **Finalist** | National College Hockey League (2024)
   - *As a **Forward**, delivered the momentum-shifting goal in the pivotal match against Chongqing University of Technology, sparking the team's comeback.*
 
-</details>
----
-
 
 
 <!---
