@@ -139,9 +139,9 @@ I am a biology undergraduate student at MSU-BIT with a passion for **biostatisti
 
 ### 📈 Mathematical Modeling
 
-- 🏅 **S Medal (Successful Participant)** | International Mathematical Contest in Modeling (MCM-2024, USA)
+- 🏅 **S Medal** | International Mathematical Contest in Modeling (MCM-2024, USA)
   - *Served as **Team Leader**.*
-- 🏅 **H Medal (Honorable Mention)** | International Mathematical Contest in Modeling (MCM-2025, USA)
+- 🏅 **H Medal** | International Mathematical Contest in Modeling (MCM-2025, USA)
   - *Served as **Deputy Team Leader**, responsible for code implementation and paper layout design.*  
 &nbsp;
 - 🥉 **National Third Prize** | The 5th MathorCup Mathematical Contest in Modeling (2025)
