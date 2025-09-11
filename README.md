@@ -15,14 +15,15 @@
 - RISC-V, PCB Design  
 - Cell Biology  
 - Analytical Chemistry  
-- Biomedical Engineering  
+- Biomedical Engineering
+- Ice hockey
 
 ---
 
 ## 🌐 Languages
 - **Chinese (CN)**: Native  
-- **English (EN)**: Fluent  
-- **Russian (RU)**: Proficient  
+- **English (EN)**: Fluent  CET-4✅️ CET-6✅️
+- **Russian (RU)**: Proficient  CRT-4✅️
 
 ---
 
@@ -63,10 +64,14 @@ I am a biology undergraduate student at MSU-BIT with a passion for **biostatisti
 - **Software Patent** | *LLM-based Real-time Translator* (2024R11L0603803)
 - **Software Patent** | *A CUDA-based Needleman-Wunsch algorithm for ultra-long sequence alignment* (2024R11L2869378)
 - **Patent** | Platform leveling device for **3D printing** with rigid chains  
-- **Publication** | IEEE Smart IoT: High-performance distributed system controlled by **Large Language Models (LLMs)** for robotics  
-- **Membership** | Shenzhen Computer Society (SZCCF) - Student Member  
+- **Publication** | IEEE SmartIoT25: High-performance distributed system controlled by **Large Language Models (LLMs)** for robotics
+- **Publication** | IEEE CloudCom25: 
+- **Publication** | IEEE CloudCom25: 
+- **Membership** | Shenzhen City Computer Federation  (SZCCF) - Student Member  
+- **Membership** | China Society Of Image And Graphics (CSIG) - Student Member  
 - **Membership** | Institute of Electrical and Electronics Engineers (IEEE) - Student Member  
-- **Certification** | National-level Judge for **Aviation and Aerospace Modeling** (Level 3)  
+- **Certification** | National-level Judge for **Aviation and Aerospace Modeling** (Level 3)
+- **Certification** | National-level Judge for **Ice hockey** (Level 3)  
 
 ---
 
