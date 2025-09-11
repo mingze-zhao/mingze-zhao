@@ -109,7 +109,7 @@ I am a biology undergraduate student at MSU-BIT with a passion for **biostatisti
 
 - **Bronze Medal, National Level** | National College Hockey League (2023)
 - **Finalist** | National College Hockey League (2024)
-  - Scored a key goal to initiate the team's comeback in the final-stage match against Chongqing University of Technology. 
+  - Delivered the momentum-shifting goal as a Forward in the pivotal match against Chongqing University of Technology, sparking the team's comeback.
   
   
 ---
