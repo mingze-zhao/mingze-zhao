@@ -80,7 +80,7 @@ I am a biology undergraduate student at MSU-BIT with a passion for **biostatisti
 - **Certification** | National-level Judge for **Ice hockey** (Level 3)  
 
 ---
-
+<!---
 ## 🎖️ Awards
 - **Gold Award, National Final** | China National College Student IoT Design Competition (2025, Zhejiang China)
 - **First Prize, East China Division** | China National College Student IoT Design Competition (2025, Zhejiang China)
@@ -111,8 +111,55 @@ I am a biology undergraduate student at MSU-BIT with a passion for **biostatisti
 - **Finalist** | National College Hockey League (2024)
   - Delivered the momentum-shifting goal as a Forward in the pivotal match against Chongqing University of Technology, sparking the team's comeback.  
 &nbsp;
-  
+
+--->
+
+
+
+## 🎖️ Awards
+
+### 💻 Tech & Engineering Innovation
+
+- 🥇 **Gold Award, National Final** | China National College Student IoT Design Competition (2025, Zhejiang)
+- 🥇 **First Prize, East China Division** | China National College Student IoT Design Competition (2025, Zhejiang)
+  - *(Ranked in the top 1.2% among 3920 competing teams)*
+  - *Served as **Deputy Team Leader**, responsible for algorithm design and team coordination.*  
+&nbsp;
+- 🥉 **Bronze Award, National Level** | The 10th National Collegiate Biomedical Engineering Innovative Design Competition (2025, Xi'an)
+  - *Served as **Team Leader**, responsible for software/hardware architecture and promotional video production.*  
+&nbsp;
+- 🏆 **Grand Prize, National Level** | Smart Unmanned Systems Challenge (2024 & 2025, Jiangyin)
+- **Finalist** | Smart Unmanned Systems Challenge (2023, Jiangyin)
+  - *Served as **Team Leader** (2024-2025), responsible for algorithm design and team coordination.*  
+
 ---
+
+### 📈 Mathematical Modeling
+
+- 🏅 **S Medal (Successful Participant)** | International Mathematical Contest in Modeling (MCM-2024, USA)
+  - *Served as **Team Leader**.*
+- 🏅 **H Medal (Honorable Mention)** | International Mathematical Contest in Modeling (MCM-2025, USA)
+  - *Served as **Deputy Team Leader**, responsible for code implementation and paper layout design.*  
+&nbsp;
+- 🥉 **National Third Prize** | The 5th MathorCup Mathematical Contest in Modeling (2025)
+- 🥇 **First Prize, South China Division** | The 5th MathorCup Mathematical Contest in Modeling (2025)
+  - *Certificate No: MC25003914*  
+&nbsp;
+- 🥈 **Second Prize, Guangdong Division** | "Shenzhen Cup" Mathematical Modeling Challenge (2025, Shenzhen)
+  - *Served as **Deputy Team Leader**, responsible for code implementation.*  
+
+---
+
+### 🏒 Sports
+
+- 🥉 **Bronze Medal, National Level** | National College Hockey League (2023)
+- **Finalist** | National College Hockey League (2024)
+  - *As a **Forward**, delivered the momentum-shifting goal in the pivotal match against Chongqing University of Technology, sparking the team's comeback.*
+
+</details>
+---
+
+
 
 <!---
 mingze-zhao/mingze-zhao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
