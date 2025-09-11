@@ -28,7 +28,7 @@
 ---
 
 ## 🧑‍🔬 About Me
-I am a biology undergraduate student at MSU-BIT with a passion for **biostatistics** and **bioengineering**. I also have a strong interest in **electronics** and **machine learning**.
+I am a biology undergraduate student at MSU-BIT with a passion for **biostatistics** and **bioengineering**. I also have a strong interest in **automation** and **machine learning**.
 
 ---
 
