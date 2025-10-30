@@ -68,9 +68,9 @@ I am a biology undergraduate student at MSU-BIT with a passion for **biostatisti
 
 ## 🏆 Achievements
 - **Software Patent** | *LLM-based Real-time Translator* (2024R11L0603803)
-- **Publication** | IEEE SmartIoT25: **Zhao, M**., Chen, H., & Du, H. "High-Performance Distributed Control System Driven by Large Language Model (LLM) for Robotics.
-- **Publication** | IEEE CloudCom25: 
-- **Publication** | IEEE CloudCom25: 
+- **Publication** | IEEE SmartIoT25: **Zhao, M**., Chen, H., & Du, H. "High-Performance Distributed Control System Driven by Large Language Model (LLM) for Robotics , Shenzhen, China.
+- **Publication** | IEEE CloudCom25: **Zhao, M**., Liu, R., Zhao, J., Gao, H., & Zeng, R. "A Cloud-Edge Collaborative Framework for Autonomous UAV-based Medical Logistics , Shenzhen, China.
+- **Publication** | IEEE CloudCom25: R. Liu, **M. Zhao**, X. Wang, J. Zuo, Y. Cheng, J. Zheng, and R. Zeng, "AIRhealth: An AIoT AR-Glasses Framework for Multimodal Dietary Recognition and Personalized Nutrition Management , Shenzhen, China.
 - **Membership** | Shenzhen City Computer Federation  (SZCCF) - Student Member  
 - **Membership** | China Society Of Image And Graphics (CSIG) - Student Member  
 - **Membership** | Institute of Electrical and Electronics Engineers (IEEE) - Student Member  
