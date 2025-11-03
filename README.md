@@ -128,7 +128,10 @@ I am a biology undergraduate student at MSU-BIT with a passion for **biostatisti
 - 🥇 **Gold Award, National Final** | China National College Student IoT Design Competition (2025, Zhejiang)
 - 🥇 **First Prize, East China Division** | China National College Student IoT Design Competition (2025, Zhejiang)
   - *(Ranked in the top 1.2% among 3920 competing teams)*
-  - *Served as **Deputy Team Leader**, responsible for algorithm design and team coordination.*  
+  - *Served as **Deputy Team Leader**, responsible for algorithm design and team coordination.*
+&nbsp;
+- 🥈 **Silver Medal, Grand Jamboree** | International Genetically Engineered Machine (iGEM) Competition (2025, Paris)
+  - *Responsible for **Sponsorship & Fundraising** and **Branding & Media Design**.* 
 &nbsp;
 - 🥉 **Bronze Award, National Level** | The 10th National Collegiate Biomedical Engineering Innovative Design Competition (2025, Xi'an)
   - *Served as **Team Leader**, responsible for software/hardware architecture and promotional video production.*  
