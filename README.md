@@ -68,7 +68,6 @@ I am a biology undergraduate student at MSU-BIT with a passion for **biostatisti
 
 ## 🏆 Achievements
 - **Software Patent** | *LLM-based Real-time Translator* (2024R11L0603803)
-
 - **Publication** | IEEE CloudCom25: **Zhao, M**., Liu, R., Zhao, J., Gao, H., & Zeng, R. "A Cloud-Edge Collaborative Framework for Autonomous UAV-based Medical Logistics", Shenzhen, China.
 - **Publication** | IEEE CloudCom25: R. Liu, **M. Zhao**, X. Wang, J. Zuo, Y. Cheng, J. Zheng, and R. Zeng, "AIRhealth: An AIoT AR-Glasses Framework for Multimodal Dietary Recognition and Personalized Nutrition Management", Shenzhen, China.
 - **Membership** | Shenzhen City Computer Federation  (SZCCF) - Student Member  
@@ -131,7 +130,7 @@ I am a biology undergraduate student at MSU-BIT with a passion for **biostatisti
   - *Served as **Deputy Team Leader**, responsible for algorithm design and team coordination.*
 &nbsp;
 - 🥈 **Silver Medal, Grand Jamboree** | International Genetically Engineered Machine (iGEM) Competition (2025, Paris)
-  - *Responsible for **Sponsorship & Fundraising** and **Branding & Media Design**.* 
+  - *Responsible for **Sponsorship & Fundraising** and **Branding & Media Design**.* 
 &nbsp;
 - 🥉 **Bronze Award, National Level** | The 10th National Collegiate Biomedical Engineering Innovative Design Competition (2025, Xi'an)
   - *Served as **Team Leader**, responsible for software/hardware architecture and promotional video production.*  
