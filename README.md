@@ -49,7 +49,7 @@ I am a biology undergraduate student at MSU-BIT with a passion for **biostatisti
 ### 💻 Research Assistant | Artificial Intelligence Research Institute, MSU-BIT 
 - **July 2025 – Now, Shenzhen, China**
 - PI: *Prof. Runhao Zeng*
-  - Focus on the development of multimodal LLMs.
+  - Research areas: Addressing gradient conflicts and modality imbalance in multimodal LLMs, and video grounding tasks.
   
 ---
 
